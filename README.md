@@ -1,1 +1,1 @@
-- [View ZigDoc documentation markdown example](index.md)
+- 📃 [View ZigDoc documentation markdown example](index.md)
